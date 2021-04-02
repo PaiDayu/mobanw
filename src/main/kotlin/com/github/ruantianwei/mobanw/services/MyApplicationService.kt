@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ruantianwei.mobanw.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ruantianwei.mobanw.MyBundle
 
 class MyApplicationService {
 
